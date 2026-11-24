@@ -1,0 +1,55 @@
+fastapi==0.139.0
+uvicorn==0.51.0
+
+# Validation
+pydantic==2.13.4
+pydantic_core==2.46.4
+annotated-types==0.7.0
+typing-inspection==0.4.2
+typing_extensions==4.16.0
+
+# Whisper
+faster-whisper==1.2.1
+ctranslate2==4.8.1
+onnxruntime==1.27.0
+av==18.0.0
+tokenizers==0.23.1
+huggingface_hub==1.23.0
+hf-xet==1.5.1
+numpy==2.5.1
+protobuf==7.35.1
+
+# FastAPI
+starlette==0.47.3
+python-multipart==0.0.32
+python-dotenv==1.2.2
+
+# HTTP
+httpx==0.28.1
+httpcore==1.0.9
+anyio==4.14.2
+h11==0.16.0
+idna==3.18
+certifi==2026.6.17
+
+# AI
+ollama==0.6.2
+
+# Crawler
+playwright==1.61.0
+greenlet==3.5.4
+pyee==13.0.1
+
+# News
+feedparser==6.0.13
+
+# Utilities
+PyYAML==6.0.3
+tqdm==4.68.4
+filelock==3.29.7
+packaging==26.2
+click==8.4.2
+colorama==0.4.6
+fsspec==2026.6.0
+
+requests>=2.32.0
